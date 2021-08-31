@@ -1,4 +1,4 @@
 Work with Git
 commit test
-New task.
+remote conflict line
 Add line
