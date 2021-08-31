@@ -1,4 +1,5 @@
 Work with Git
 commit test
 conflict line 
+remote conflict line
 Add line
