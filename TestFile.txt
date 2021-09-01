@@ -3,3 +3,4 @@ commit test
 conflict line 
 remote conflict line
 Add line
+new branch file
