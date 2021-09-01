@@ -1,6 +1,6 @@
 Work with Git
 commit test
-conflict line 
+conflict line  update
 remote conflict line
 Add line
 new branch file

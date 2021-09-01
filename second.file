@@ -1,0 +1,4 @@
+:test_line >> second.file
+echo test_line >> second.file
+echo :test_line
+test_line
